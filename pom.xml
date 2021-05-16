@@ -19,6 +19,7 @@
 
     <modules>
         <module>spring-app-module</module>
+        <module>module_a</module>
     </modules>
 
     <properties>
