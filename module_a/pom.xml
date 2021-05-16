@@ -22,6 +22,11 @@
             <artifactId>module_b</artifactId>
             <version>${project.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.georgidinov</groupId>
+            <artifactId>module_c</artifactId>
+            <version>${project.version}</version>
+        </dependency>
     </dependencies>
 
 </project>
