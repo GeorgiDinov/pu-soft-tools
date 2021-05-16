@@ -1,4 +1,4 @@
-package com.georgidinov.modulea.model;
+package com.georgidinov.springappmodule.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.PropertyNamingStrategy;

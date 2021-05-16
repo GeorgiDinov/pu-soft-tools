@@ -1,6 +1,6 @@
-package com.georgidinov.modulea.controller;
+package com.georgidinov.springappmodule.controller;
 
-import com.georgidinov.modulea.model.StudentData;
+import com.georgidinov.springappmodule.model.StudentData;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
