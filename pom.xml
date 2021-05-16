@@ -21,6 +21,7 @@
         <module>spring-app-module</module>
         <module>module_a</module>
         <module>module_b</module>
+        <module>module_c</module>
     </modules>
 
     <properties>
